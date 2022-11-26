@@ -14,8 +14,6 @@ Check out [API LIVE DEMO](https://pizzeria-backend.viola-ivolga.repl.co/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/Viola-Ivolga/pizzeria.git
-```
 2. Backend setting
 ```
 cd backend
